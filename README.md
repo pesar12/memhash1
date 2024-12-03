@@ -6,7 +6,7 @@
 First-ever PoW (Proof of Work) Mining on Telegram, fully supported by Pavel Durov, Telegram CEO.
 Every mined block carries real token rewards shared among participants. Tokens, not points, are mined through Memhash.
 
-- Start Mining Now: [Click here](t.me/memhash_bot/start?startapp=10cFTW).
+- Start Mining Now: [Click here](https://t.me/memhash_bot/start?startapp=10cFTW).
 - Reminder: You need 300 Telegram Stars to Start Mining.
 
 # Features
