@@ -56,3 +56,6 @@ python3 main.py
 #### For questions or feedback:
 - Telegram: [@rinkashi_me](https://t.me/rinkashi_me)
 - Discord: [Join 0xSG AirxNode Community](https://discord.gg/BxDj5ZVj8W)
+
+
+### This project is distributed under the terms of the ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
