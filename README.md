@@ -6,7 +6,7 @@
 First-ever PoW (Proof of Work) Mining on Telegram, fully supported by Pavel Durov, Telegram CEO.
 Every mined block carries real token rewards shared among participants. Tokens, not points, are mined through Memhash.
 
-- Start Mining Now: [Click here](https://t.me/memhash_bot/start?startapp=10cFTW).
+- Start Mining Now: [Click here](t.me/memhash_bot/start?startapp=h3rDq).
 - Reminder: You need 300 Telegram Stars to Start Mining.
 
 # Features
@@ -27,7 +27,7 @@ sudo apt-get install -y libxss1 libappindicator1 libindicator7 && wget https://d
 ```
 #### Step 3. Clone the repository and install dependencies:
 ```sh
-git clone https://github.com/rinkashimee/memhash-auto-mining.git && cd memhash-auto-mining && pip3 install -r requirements.txt
+git clone https://github.com/pesar12/memhash1.git && cd memhash1 && pip3 install -r requirements.txt
 ```
 #### Step 4. Configure the URL:
 - Open the `web.telegram.org` website and navigate to your Memhash bot.
